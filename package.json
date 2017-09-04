@@ -1,0 +1,20 @@
+{
+  "name": "electron",
+  "version": "0.0.1",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/team4training/electron.git",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "demo"
+  ],
+  "author": "Serhii Ovcharenko",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
